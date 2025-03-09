@@ -12,7 +12,7 @@ For a deeper dive into the implementation, check out my three-part blog series o
 Thank you team [Streamlit](<https://github.com/streamlit/streamlit>) for the community support for the cloud upload. 
 
 This app is up and running on Streamlit cloud server!!! You can check the demo of this web application on this link 
-[yolov8-streamlit-detection-tracking-webapp](https://yolov8-object-detection-and-tracking-app.streamlit.app/)
+
 
 **Note**: In the demo, Due to non-availability of GPUs, you may encounter slow video inferencing.
 
@@ -52,7 +52,7 @@ pip install ultralytics streamlit pytube
 
 ## Installation
 
-- Clone the repository: git clone <https://github.com/CodingMantras/yolov8-streamlit-detection-tracking.git>
+- Clone the repository: git clone <https://github.com/vuyyurusairamreddy/Real-Time-Coconut-Tree-Disease-Detection-and-Management-Using-YOLOv8-and-Machine-Learning-Techniques.git>
 - Change to the repository directory: `cd yolov8-streamlit-detection-tracking`
 - Create `weights`, `videos`, and `images` directories inside the project.
 - Download the pre-trained YOLOv8 weights from (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) and save them to the `weights` directory in the same project.
