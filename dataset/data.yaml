@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['bud root dropping', 'bud rot', 'gray leaf spot', 'leaf rot', 'stembleeding']
+
+roboflow:
+  workspace: mayhoc
+  project: coconut-tree-disease
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/mayhoc/coconut-tree-disease/dataset/1
