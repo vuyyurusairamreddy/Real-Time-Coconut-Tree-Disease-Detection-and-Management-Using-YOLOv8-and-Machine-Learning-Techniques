@@ -74,3 +74,5 @@ tzdata==2024.1
 ultralytics==8.1.30
 urllib3==2.2.1
 watchdog==4.0.0
+google-generativeai==0.3.1
+
