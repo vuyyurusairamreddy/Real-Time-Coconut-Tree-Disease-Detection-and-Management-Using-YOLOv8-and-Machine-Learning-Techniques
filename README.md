@@ -4,7 +4,7 @@ This repository is an extensive open-source project showcasing the seamless inte
 
 
 ## <span style="color:deepskyblue">Explore Implementation Details on Medium (3 parts blog series) </span>
-For a deeper dive into the implementation, check out my three-part blog series on [Medium](https://medium.com/@mycodingmantras), where I detail the [step-by-step process of creating this web application](https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-1-30c56f5eb956).
+For a deeper dive into the implementation, check out my three-part blog series on [Medium](https://medium.com/@mycodingmantras), where I detail the [step-by-step process of creating this web application](https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-1-30c56f5e).
 
 
 ## <span style="color:deepskyblue">WebApp Demo on Streamlit Server</span>
